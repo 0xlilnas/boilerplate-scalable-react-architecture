@@ -1,7 +1,14 @@
 {
   "name": "front",
+  "author": "Naz M.",
+  "description": "Scalable fullstack app",
   "version": "0.1.0",
   "private": true,
+  "license": "MIT",
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=8.0.0"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.1.1",
