@@ -22,6 +22,7 @@
     "project": "./tsconfig.json"
   },
   "plugins": ["react", "@typescript-eslint", "prettier"],
+  "ignorePatterns": ["commitlint.config.js"],
   "rules": {
     "quotes": [
       "error",
